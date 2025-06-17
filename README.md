@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a passionate Android developer with experience
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodinamomen&hide_progress=true)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Rodinamomen)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Rodinamomen&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
 
 
 -Feel free to reach out if you have any questions or if you'd like to collaborate on a project!
