@@ -137,7 +137,7 @@
 
 <br/>
 
-![Visitor Count](https://visitcount.itsvg.in/api?id=Rodinamomen&icon=5&color=9)
+![](https://komarev.com/ghpvc/?username=Rodinamomen&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
 
 <br/>
 </div>
