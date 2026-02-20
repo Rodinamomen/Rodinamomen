@@ -78,7 +78,7 @@
 
 | Project | Description | Tech |
 |---|---|---|
-|  **Altashirat** | Visa requesting app — built from scratch | `KMP` `Compose` `MVI` `Ktor` `Koin` `Clean Arch` |
+|  **Altashirat** | Visa requesting app — built from scratch | `Compose` `MVI` `Ktor` `Koin` `Clean Arch` |
 |  **Talkie** *(Graduation — A+)* | Real-time Android chatting app | `MVVM` `Firebase` `Retrofit` `Coroutines` |
 
 </div>
