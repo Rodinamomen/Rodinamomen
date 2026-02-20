@@ -100,9 +100,4 @@
 [![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Rodinamobark3@gmail.com)
 [![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@rodinamobark3)
 
-<br/>
-
-![Visitor Count](https://visitcount.itsvg.in/api?id=Rodinamomen&icon=5&color=9)
-
-<br/>
 </div>
