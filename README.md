@@ -82,18 +82,6 @@
 |  **Talkie** *(Graduation — A+)* | Real-time Android chatting app | `MVVM` `Firebase` `Retrofit` `Coroutines` |
 
 </div>
-
----
-
-<div align="center">
-
-## GitHub Stats
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rodinamomen&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodinamomen&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-
-</div>
-
 ---
 
 <div align="center">
@@ -104,26 +92,13 @@
 
 </div>
 
----
-
-<div align="center">
-
-## Activity Graph
-
-[![Rodina's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Rodinamomen&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
 <div align="center">
 
 ## Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodina-momen-927b991a5/)
 [![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Rodinamobark3@gmail.com)
-[![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@Rodinamobark)
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rodinamomen)
+[![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@rodinamobark3)
 
 <br/>
 
