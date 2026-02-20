@@ -108,16 +108,6 @@
 
 <div align="center">
 
-##  GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Rodinamomen&theme=tokyonight&no-frame=true&no-bg=false&margin-w=8&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-<div align="center">
-
 ## Activity Graph
 
 [![Rodina's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Rodinamomen&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
@@ -137,7 +127,7 @@
 
 <br/>
 
-![](https://komarev.com/ghpvc/?username=Rodinamomen&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
+![Visitor Count](https://visitcount.itsvg.in/api?id=Rodinamomen&icon=5&color=9)
 
 <br/>
 </div>
