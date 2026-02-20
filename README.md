@@ -1,4 +1,3 @@
-
 ## Experience
 
 ### Eva · Junior Android Developer *(Remote — Freelance, Iraq)*
@@ -8,6 +7,7 @@
 ### OTAS · Junior Android Developer *(Remote — Full-time, Saudi Arabia)*
 **May 2025 – Nov 2025**
 > Fixed **60+ bugs** in a KMP SaaS project · Built the **GDS Tourism App** · Implemented **Altashirat App** from scratch
+
 > `KMP` `Jetpack Compose` `Ktor` `Koin` `MockK` `Clean Architecture` `Git Flow`
 
 ### OTAS · Android Developer Intern *(Remote — Full-time, Saudi Arabia)*
