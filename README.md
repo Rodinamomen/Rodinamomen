@@ -1,21 +1,3 @@
-## Experience
-
-### Eva · Junior Android Developer *(Remote — Freelance, Iraq)*
-**Oct 2025 – Dec 2025**
-> Developing features for iOS & Android using **Compose Multiplatform**
-
-### OTAS · Junior Android Developer *(Remote — Full-time, Saudi Arabia)*
-**May 2025 – Nov 2025**
-> Fixed **60+ bugs** in a KMP SaaS project · Built the **GDS Tourism App** · Implemented **Altashirat App** from scratch
-
-> `KMP` `Jetpack Compose` `Ktor` `Koin` `MockK` `Clean Architecture` `Git Flow`
-
-### OTAS · Android Developer Intern *(Remote — Full-time, Saudi Arabia)*
-**Jan 2025 – May 2025**
-> Led team projects · Code reviews · Full Android app with Clean Architecture
-> `Kotlin` `MVI` `Hilt` `Coroutines` `JUnit` `Retrofit` `Material 3` `SOLID`
-<div align="center">
-
 ##  Tech Stack
 
 ### Core Android & Languages
@@ -70,18 +52,6 @@
 
 </div>
 
----
-
-## Featured Projects
-
-<div align="center">
-
-| Project | Description | Tech |
-|---|---|---|
-|  **Altashirat** | Visa requesting app — built from scratch | `Compose` `MVI` `Ktor` `Koin` `Clean Arch` |
-|  **Talkie** *(Graduation — A+)* | Real-time Android chatting app | `MVVM` `Firebase` `Retrofit` `Coroutines` |
-
-</div>
 ---
 
 <div align="center">
